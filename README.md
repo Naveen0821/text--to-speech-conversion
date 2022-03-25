@@ -43,6 +43,6 @@ Clone the Repository
 
 ```
 ```bash
-  python ClientApp.py
+  python clientApp.py
 
 ```
